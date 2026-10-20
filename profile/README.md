@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.youj.dev"><img src="https://www.youj.dev/icons/site-light.svg" width="48" height="48" alt="Youj" /></a>
+  <a href="https://www.youj.dev"><img src="youj.png" width="48" height="48" alt="Youj" /></a>
 </p>
 
 ### UI components, in motion.
